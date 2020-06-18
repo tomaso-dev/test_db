@@ -1,4 +1,4 @@
-1.0.7 2015-08-30
+1.0.7 2015-08-30 change
 	- Moved to GitHub
 	- Fixed bug#393423 Duplicate key in dept_manager
 	- Fixed bug#393429 Column order in employees.dept_manager is incorrect
